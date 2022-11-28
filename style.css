@@ -1,6 +1,7 @@
 
 body{
     background-image: url("images/back.jpg");
+    background-repeat: repeat-x;
 }
 #h1{
     font-family: Brush Script system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
